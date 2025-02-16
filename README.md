@@ -1,2 +1,2 @@
 # Doctor-Appointment-Management-System
-This is a database project on Doctor Appointment Management System that will store the data of  the patients, receptionists, doctors, hospitals, and their branches
+The Doctor Appointment Management System stores and manages data for patients, doctors, receptionists, hospitals, and branches. Built with Oracle and integrated with Java, it streamlines appointments, records, and administration, enhancing efficiency and healthcare services through secure and organized data management.
